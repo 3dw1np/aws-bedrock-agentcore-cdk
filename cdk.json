@@ -1,5 +1,5 @@
 {
-  "app": "node bin/aws-bedrock-agentcore-cdk.js",
+  "app": "node bin/agentcore-cdk.js",
   "watch": {
     "include": [
       "**"
