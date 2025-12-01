@@ -31,6 +31,10 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app. The build ste
    cdk deploy
    ```
 
+## Testing Agent Strands Locally
+
+For more details, see the [AWS documentation](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-toolkit.html#test-locally).
+
 ## Useful commands
 
 * `npm run test`         perform the jest unit tests
